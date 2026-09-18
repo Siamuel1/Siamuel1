@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as a Tech Analyst at Florida Realtors, assisting Realtors nationwide with our SaaS service, Form Simplicity. <br>Before this, I was freelancing, creating my own websites, and collaborating with SUNY Farmingdale. <br>Additionally, I am pursuing a part-time Master's of Science in Computer Science at the University of Colorado Boulder.
+I work as a Tech Analyst at Florida Realtors, assisting Realtors nationwide with our SaaS service, Form Simplicity. <br>Before this, I was freelancing, creating my own websites, and collaborating with SUNY Farmingdale. <br>
 
 
 ## 🌐 Socials:
